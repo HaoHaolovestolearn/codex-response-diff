@@ -1,0 +1,10 @@
+{
+  "required": [
+    "Tests:",
+    "Rollback:"
+  ],
+  "forbidden": [
+    "guaranteed perfect"
+  ],
+  "max_chars": 1000
+}

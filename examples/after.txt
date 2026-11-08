@@ -1,0 +1,4 @@
+Implementation plan
+Write the function.
+Tests: cover empty inputs and Unicode.
+Rollback: restore the previous version.
